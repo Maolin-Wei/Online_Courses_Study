@@ -1,2 +1,2 @@
 # Online_Course_Study
-The repository is used for study, to store materials for online courses, especially for assignments codes, lab codes written by myself and so on. 
+The repository is used to store learning materials such as assignments codes, lab codes written by myself when I study online courses. 
